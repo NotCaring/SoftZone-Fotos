@@ -1,0 +1,78 @@
+🔤 BÁSICOS DO DESENVOLVIMENTO WEB
+#B03 - HTML5 e CSS3
+HTML5: Linguagem de marcação usada para estruturar o conteúdo de páginas web (ex: títulos, parágrafos, imagens).
+
+CSS3: Linguagem de estilo usada para definir a aparência do conteúdo HTML (cores, fontes, layouts).
+
+#B04 - JavaScript
+Linguagem de programação usada para adicionar interatividade às páginas (ex: sliders, formulários dinâmicos, animações).
+
+💾 CONTROLE DE VERSÃO E BACKEND INICIAL
+#B05 - Git & GitHub
+Git: Sistema de controle de versão para acompanhar mudanças no código.
+
+GitHub: Plataforma online para armazenar e colaborar em projetos com Git.
+
+#B06 - Bancos de Dados
+Ferramentas para armazenar dados de forma organizada (ex: MySQL, PostgreSQL, MongoDB).
+
+⚙️ LINGUAGENS E FRAMEWORKS DE BACKEND
+#B07 - PHP
+Linguagem de programação voltada para o desenvolvimento web no servidor.
+
+#B08 - Laravel
+Framework PHP moderno que facilita o desenvolvimento web com segurança, estrutura e boas práticas.
+
+#B09 - TypeScript
+Superset do JavaScript com tipagem estática. Ajuda a escrever código mais seguro e previsível.
+
+#B10 - NodeJS
+Ambiente que permite rodar JavaScript no servidor (backend), usado para criar APIs e apps web escaláveis.
+
+🧩 FRAMEWORKS FULLSTACK/JAVASCRIPT
+#B11 - AdonisJS
+Framework backend baseado em NodeJS, inspirado no Laravel, com estrutura MVC e ORM integrados.
+
+#B12 - ReactJS
+Biblioteca JavaScript para criar interfaces de usuário reativas e rápidas (Frontend).
+
+#B13 - NextJS
+Framework React com foco em performance, renderização no servidor (SSR), e rotas automáticas.
+
+#B14 - React Native
+Framework para criar apps móveis (Android/iOS) usando React.
+
+#B15 - VueJS
+Framework JavaScript progressivo para construir interfaces interativas e modulares.
+
+🧱 OUTROS FRAMEWORKS E FERRAMENTAS
+#B16 - Angular 9
+Framework JavaScript completo para criar aplicações web robustas (frontend), mantido pelo Google.
+
+#B17 - Flutter
+Framework da Google para criar apps nativos para Android, iOS e web usando a linguagem Dart.
+
+#B18 - Bootstrap 4
+Biblioteca de CSS pronta para uso com componentes de design (botões, menus, grids responsivos).
+
+#B19 - Docker
+Plataforma para criar, empacotar e rodar aplicações em containers, facilitando o deploy.
+
+#B20 - Firebase
+Plataforma do Google que oferece autenticação, banco de dados em tempo real, hospedagem e mais.
+
+🎨 ESTILO, CMS E PROJETOS PRÁTICOS
+#B21 - Sass
+Pré-processador CSS que permite usar variáveis, funções e estrutura modular no estilo.
+
+#B22 - WordPress-ZP
+Provavelmente um projeto prático com WordPress (CMS usado para criar sites e blogs). “ZP” pode indicar "zero to pro" ou "zona prática".
+
+#B23 - React Native-ZP
+Projeto prático usando React Native.
+
+#B24 - Frontend-ZP
+Projeto prático envolvendo tecnologias de Frontend (HTML, CSS, JS, etc.).
+
+#B25 - PHP-ZP
+Projeto prático usando PHP.
